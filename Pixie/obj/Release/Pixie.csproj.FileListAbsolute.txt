@@ -1,0 +1,40 @@
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\bin\Release\Pixie.exe.config
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\bin\Release\Pixie.exe
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\bin\Release\Pixie.pdb
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\MainWindow.baml
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\MainWindow.g.cs
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\App.g.cs
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\Pixie_MarkupCompile.cache
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\Pixie.g.resources
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\Pixie.Properties.Resources.resources
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\Pixie.csproj.GenerateResource.Cache
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\Pixie.exe
+C:\Users\patri\OneDrive\Documents\Visual Studio 2017\Projects\Pixie\Pixie\obj\Release\Pixie.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\bin\Release\Pixie.exe.config
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\bin\Release\Pixie.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\bin\Release\Pixie.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.csprojAssemblyReference.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\MainWindow.baml
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\MainWindow.g.cs
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\App.g.cs
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie_MarkupCompile.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.g.resources
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.Properties.Resources.resources
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.csproj.GenerateResource.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\bin\Release\Pixie.exe.config
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\bin\Release\Pixie.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\bin\Release\Pixie.pdb
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.csprojAssemblyReference.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\MainWindow.baml
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\MainWindow.g.cs
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\App.g.cs
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie_MarkupCompile.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.g.resources
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.Properties.Resources.resources
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.csproj.GenerateResource.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.exe
+E:\Projects\C#\Visual Studio 2017\.NET 4.7.2\Pixie\1.1\Source\Pixie\Pixie\obj\Release\Pixie.pdb
